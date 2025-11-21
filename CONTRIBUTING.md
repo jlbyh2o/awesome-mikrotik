@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Awesome MikroTik! This document p
 
 ### Reporting Issues
 
-If you find a broken link, outdated information, or have a suggestion for improvement, please [open an issue](https://github.com/jeremy/awesome-mikrotik/issues/new).
+If you find a broken link, outdated information, or have a suggestion for improvement, please [open an issue](https://github.com/jlbyh2o/awesome-mikrotik/issues/new).
 
 ### Adding New Resources
 

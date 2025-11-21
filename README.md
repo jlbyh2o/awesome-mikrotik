@@ -48,8 +48,6 @@ MikroTik provides a range of networking hardware and software solutions. This re
 
 ## Monitoring
 
-- [Grafana MikroTik Dashboard](https://grafana.com/grafana/dashboards/10950-mikrotik-routeros/) - Comprehensive Grafana dashboard for MikroTik RouterOS using Prometheus/SNMP.
-- [MikroTik Router Monitoring System](https://github.com/ak740/Mikrotik-Router-Monitoring-System) - SNMP based monitoring system.
 - [mikrotik-exporter](https://github.com/nshttpd/mikrotik-exporter) - Prometheus exporter for MikroTik RouterOS metrics.
 
 ## Libraries and APIs
@@ -57,7 +55,6 @@ MikroTik provides a range of networking hardware and software solutions. This re
 - [go-routeros](https://github.com/go-routeros/routeros) - Go library for accessing MikroTik devices using the RouterOS API.
 - [librouteros](https://github.com/luqasz/librouteros) - Python implementation of the MikroTik RouterOS API.
 - [RouterOS-API](https://github.com/socialwifi/RouterOS-API) - Python API client for MikroTik RouterOS.
-- [routeros-api-nodejs](https://github.com/alhazmy13/routeros-api-nodejs) - Node.js client for MikroTik RouterOS API.
 
 ## Scripts
 
