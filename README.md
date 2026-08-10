@@ -44,6 +44,7 @@ MikroTik provides a range of networking hardware and software solutions. This re
 - [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool with support for RouterOS.
 - [RouterFleet](https://hotspotbeacon.com/en/opensource/) - Open source centralized router backup and management system.
 - [TikCTRL](https://tikctrl.com/) - SaaS management platform for MikroTik devices offering automation and monitoring.
+- [Tikpilot](https://github.com/maximdr86/tikpilot) - Self-hosted web panel for managing a MikroTik fleet over the RouterOS API: monitoring, bulk operations, backups and syslog.
 - [Unimus](https://unimus.net/) - Network automation and configuration management solution with strong MikroTik support.
 
 ## Monitoring
