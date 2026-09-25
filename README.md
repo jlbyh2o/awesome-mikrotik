@@ -48,6 +48,7 @@ MikroTik provides a range of networking hardware and software solutions. This re
 
 ## Monitoring
 
+- [mikroscope](https://github.com/jmrplens/mikroscope) - Sub-second kernel telemetry from an agent in a RouterOS container, with Grafana dashboards and a collector for Prometheus, InfluxDB and nine other sinks.
 - [mikrotik-exporter](https://github.com/nshttpd/mikrotik-exporter) - Prometheus exporter for MikroTik RouterOS metrics.
 
 ## Libraries and APIs
