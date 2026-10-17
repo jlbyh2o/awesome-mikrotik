@@ -41,6 +41,7 @@ MikroTik provides a range of networking hardware and software solutions. This re
 
 - [Ansible Collection for RouterOS](https://github.com/ansible-collections/community.routeros) - Community maintained Ansible collection for managing MikroTik RouterOS.
 - [Ctrlbit](https://ctrlbit.com/) - Cloud-based management platform for MikroTik devices.
+- [MikroTik Cockpit](https://github.com/BreuerM1975/mikrotik-cockpit) - Local browser UI for RouterOS with plain-language explanations, safety warnings and a live security check; connects to several routers at once.
 - [Oxidized](https://github.com/ytti/oxidized) - Network device configuration backup tool with support for RouterOS.
 - [RouterFleet](https://hotspotbeacon.com/en/opensource/) - Open source centralized router backup and management system.
 - [TikCTRL](https://tikctrl.com/) - SaaS management platform for MikroTik devices offering automation and monitoring.
