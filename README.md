@@ -45,6 +45,7 @@ MikroTik provides a range of networking hardware and software solutions. This re
 - [RouterFleet](https://hotspotbeacon.com/en/opensource/) - Open source centralized router backup and management system.
 - [TikCTRL](https://tikctrl.com/) - SaaS management platform for MikroTik devices offering automation and monitoring.
 - [Unimus](https://unimus.net/) - Network automation and configuration management solution with strong MikroTik support.
+- [MikroTik Mass Updater](https://github.com/rollopack/MikroTik-Mass-Updater) - Multithreaded Python tool for managing RouterOS updates across multiple MikroTik devices, with firmware upgrades, Cloud Backup management, inventory collection, and reporting. Includes CLI and Tkinter GUI.
 
 ## Monitoring
 
